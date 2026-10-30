@@ -1,34 +1,50 @@
-# Awesome Video Hosting & Video Marketing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Video Hosting &amp; Video Marketing Banner" width="100%" />
+</p>
 
-> A curated list of leading **Video Hosting**, **Video Marketing platforms**, **Enterprise OVPs**, and **Open-Source Video CMS & Streaming Infrastructure**.
+# 🎬 Awesome Video Hosting & Video Marketing
 
-Discover top cloud SaaS platforms and self-hosted open-source software to host, transcode, stream, monetize, and analyze high-converting video content across web, mobile, and CRM workflows.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Video-Hosting-Video-Marketing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Video-Hosting-Video-Marketing?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Video-Hosting-Video-Marketing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Video-Hosting-Video-Marketing?style=flat-square&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Video-Hosting-Video-Marketing/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-CC--BY--4.0-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
----
+> 🌟 A curated directory and market breakdown of leading **Enterprise Video Hosting**, **Video Marketing Platforms**, **Conversion-Driven Video Players**, and **Open-Source Video CMS & Streaming Infrastructure**.
 
-## Sector Overview & Market Dynamics
-
-The global enterprise video hosting and Online Video Platform (OVP) market is estimated between **$1.5B and $6B+** (scaling past **$15B+** by 2030), while digital video advertising and video marketing expenditure exceeds **$250B+** worldwide. The video hosting and marketing landscape is **moderately fragmented**: commodity public hosting and broadcast CDN streaming exhibit high concentration, but the B2B marketing, sales enablement, and enterprise video CMS segments remain competitive, with specialized vendors carving out defensible moats across CRM lead-gating, interactive AI-avatar generation, privacy-first compliance, and self-hosted infrastructure.
-
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS Video Hosting & Marketing Platforms](#saas-video-hosting--marketing-platforms)
-- [Open-Source Video Hosting & Streaming Infrastructure](#open-source-video-hosting--streaming-infrastructure)
-  - [Self-Hosted Video Platforms & Transcoding Engines](#self-hosted-video-platforms--transcoding-engines)
-  - [Media Servers & Live Streaming Engines](#media-servers--live-streaming-engines)
-  - [Video Players & Front-End SDKs](#video-players--front-end-sdks)
-  - [Marketing Analytics & Specialized Portals](#marketing-analytics--specialized-portals)
-- [Feature & Architectural Comparison Matrix](#feature--architectural-comparison-matrix)
-- [How to Choose the Right Solution](#how-to-choose-the-right-solution)
-- [How to Contribute](#how-to-contribute)
-- [License & Disclaimer](#license--disclaimer)
+Discover the best SaaS tools and self-hosted open-source software to upload, transcode, embed, stream, monetize, and analyze high-converting video content across web, mobile, and CRM workflows.
 
 ---
 
-## SaaS Video Hosting & Marketing Platforms
+## 📊 Sector Overview & Market Dynamics
+
+The global enterprise video hosting and Online Video Platform (OVP) market is estimated between **$1.5B and $6.0B+** (scaling past **$15B+** by 2030), while digital video advertising and video marketing expenditure exceeds **$250B+** worldwide. The video hosting and marketing landscape is **moderately fragmented**: commodity public hosting and broadcast CDN streaming exhibit high concentration, but the B2B marketing, sales enablement, and enterprise video CMS segments remain highly competitive, with specialized vendors carving out defensible moats across CRM lead-gating, interactive AI-avatar generation, privacy-first compliance, and self-hosted infrastructure.
+
+---
+
+## 📑 Table of Contents
+
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS Video Hosting & Marketing Platforms](#️-saas-video-hosting--marketing-platforms)
+- [🔓 Open-Source Video Hosting & Streaming Infrastructure](#-open-source-video-hosting--streaming-infrastructure)
+  - [🏆 Community Star Rankings](#-community-star-rankings)
+  - [⚙️ Self-Hosted Platforms & Transcoding Engines](#️-self-hosted-platforms--transcoding-engines)
+  - [🏢 Enterprise Video CMS & Portal Systems](#-enterprise-video-cms--portal-systems)
+  - [📡 Media Streaming & Real-Time Broadcast Infrastructure](#-media-streaming--real-time-broadcast-infrastructure)
+- [⚖️ Feature & Architectural Comparison Matrix](#️-feature--architectural-comparison-matrix)
+- [🧭 How to Choose the Right Solution](#-how-to-choose-the-right-solution)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support](#-support)
+- [📜 License & Disclaimer](#-license--disclaimer)
+
+---
+
+## ☁️ SaaS Video Hosting & Marketing Platforms
 
 The table below lists the premier video hosting and video marketing SaaS solutions, sorted in descending order by company scale (market capitalization or valuation / annual recurring revenue).
 
@@ -47,11 +63,11 @@ The table below lists the premier video hosting and video marketing SaaS solutio
 
 ---
 
-## Open-Source Video Hosting & Streaming Infrastructure
+## 🔓 Open-Source Video Hosting & Streaming Infrastructure
 
 A curated directory of open-source video infrastructure projects, media servers, and players. Repositories are sorted in **descending order by GitHub star count**.
 
-### Open-Source Repositories Ranked by Community Stars
+### 🏆 Community Star Rankings
 
 | Project | GitHub Stars | Category & Architecture | License | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -74,25 +90,25 @@ A curated directory of open-source video infrastructure projects, media servers,
 
 ---
 
-## Detailed Architectural Breakdown
-
-### 1. Self-Hosted Video Platforms & Transcoding Engines (Mux Alternatives)
+### ⚙️ Self-Hosted Platforms & Transcoding Engines
 - **[Mave Core](https://github.com/maveio/core)**: Complete video infrastructure platform. Ingests via resumable uploads, transcodes via FFmpeg DAG pipelines into adaptive HLS, stores assets on S3/MinIO, and streams playback metrics directly into ClickHouse for deep retention and drop-off analytics.
 - **[Hovod](https://github.com/Synapsr/Hovod)**: The fastest deployment path for a modern self-hosted video portal in a single container. Features hardware-accelerated transcoding (360p–4K), S3 sync, Whisper AI automated subtitles, tenant team administration, and optional Stripe monetization.
 
-### 2. Enterprise Video CMS & Portal Systems (YouTube & Vimeo Alternatives)
+### 🏢 Enterprise Video CMS & Portal Systems
 - **[MediaCMS](https://github.com/mediacms-io/mediacms)**: Built with Django and React, MediaCMS is ideal for organizations building private corporate portals or university video repositories. Includes multi-profile HLS encoding, Whisper speech-to-text, and clean REST APIs.
 - **[PeerTube](https://github.com/Chocobozzz/PeerTube)**: Decentralized, ActivityPub-federated platform by Framasoft. Leverages browser-to-browser P2P streaming (WebRTC) to distribute delivery load across viewers during peak traffic events.
 - **[AVideo](https://github.com/WWBN/AVideo)**: Mature, community-driven platform providing ready-to-use pay-per-view, subscription gating, and user live-broadcasting modules.
+- **[CinemataCMS](https://github.com/EngageMedia-video/cinematacms)**: Privacy-hardened, OTF-audited video CMS designed for human rights organizations, sensitive documentaries, and secure community film archives.
 
-### 3. Media Streaming & Real-Time Broadcast Infrastructure
-- **[SRS](https://github.com/ossrs/srs)**: Industry-standard C++ real-time streaming server cluster powering live video ingest and low-latency delivery over WebRTC, SRT, and RTMP.
+### 📡 Media Streaming & Real-Time Broadcast Infrastructure
+- **[SRS (Simple Realtime Server)](https://github.com/ossrs/srs)**: Industry-standard C++ real-time streaming server cluster powering live video ingest and low-latency delivery over WebRTC, SRT, and RTMP.
 - **[MediaMTX](https://github.com/bluenviron/mediamtx)**: Lightweight Go-based media router that seamlessly transcodes and routes video feeds between surveillance cameras, broadcast systems, and web viewers.
-- **[Owncast](https://github.com/owncast/owncast)**: Empowering creators to broadcast independent live streams directly to their audience without commercial intermediary control.
+- **[Owncast](https://github.com/owncast/owncast)**: Empowering creators to broadcast independent live streams directly to their audience with built-in chat and Fediverse integration.
+- **[Restreamer](https://github.com/datarhei/restreamer)**: Ingests video from RTMP, HLS, or RTSP sources and distributes simultaneously to multiple streaming networks and self-hosted landing pages.
 
 ---
 
-## Feature & Architectural Comparison Matrix
+## ⚖️ Feature & Architectural Comparison Matrix
 
 | Use Case | Best Suited Solution | Primary Trade-Off |
 | :--- | :--- | :--- |
@@ -106,7 +122,7 @@ A curated directory of open-source video infrastructure projects, media servers,
 
 ---
 
-## How to Choose the Right Solution
+## 🧭 How to Choose the Right Solution
 
 1. **Do you need native CRM lead conversion?**  
    If your primary metric is pipeline revenue, choose **Wistia** or **HubSpot Video Hosting** for turnstile email gates, automated lead scoring, and CRM contact timelines.
@@ -119,20 +135,37 @@ A curated directory of open-source video infrastructure projects, media servers,
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-Contributions are welcome! Help keep this directory current, accurate, and comprehensive:
+Contributions are warmly welcomed! Help keep this directory current, accurate, and comprehensive:
 
 1. Fork this repository.
-2. Create a branch: `git checkout -b feature/add-new-platform`.
-3. Add the SaaS tool or open-source repo with accurate pricing, star badges, and factual descriptions.
+2. Create your branch: `git checkout -b feature/add-new-platform`.
+3. Add the SaaS tool or open-source repo with accurate pricing, community star badges, and factual descriptions.
 4. Commit your changes: `git commit -m 'Add [Tool Name] to video ecosystem'`.
 5. Push to the branch: `git push origin feature/add-new-platform`.
-6. Open a Pull Request detailing the benefits and relevance of the addition.
+6. Open a Pull Request detailing the benefits and relevance of your addition.
 
 ---
 
-## License & Disclaimer
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Video-Hosting-Video-Marketing&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Video-Hosting-Video-Marketing&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+If you find this curated ecosystem directory helpful for your video architecture or marketing stack:
+
+- ⭐ **Star this repository** to show your appreciation and help others discover it.
+- 🍴 **Fork and contribute** by submitting new tools, benchmarks, and updates.
+- 📢 **Share with colleagues** across LinkedIn, X (Twitter), and developer communities.
+- ☕ **Sponsor or buy a coffee**: Support ongoing curation and open-source directory maintenance on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📜 License & Disclaimer
 
 - **License**: Content is released under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) license.
 - **Disclaimer**: All product names, logos, and brands are property of their respective owners. Pricing models, free tier quotas, and corporate valuations reflect market data as of late 2026 and are subject to change by their respective vendors.
