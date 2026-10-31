@@ -65,7 +65,7 @@ The table below lists the premier video hosting and video marketing SaaS solutio
 
 ## 🔓 Open-Source Video Hosting & Streaming Infrastructure
 
-A curated directory of open-source video infrastructure projects, media servers, and players. Repositories are sorted in **descending order by GitHub Stars_Count**.
+A curated directory of open-source video infrastructure projects, media servers, and players. Repositories are sorted in **descending order by GitHub_Stars_Count**.
 
 ### 🏆 Community Star Rankings
 
